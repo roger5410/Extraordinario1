@@ -1,27 +1,27 @@
-Regresion lineal
+Linear regression
 
-La variable dependiente es algo que se quiere predecir o explicar. La variable independiente es lo que se utiliza para explicar o predecir la variable dependiente.
+The dependent variable is something that you want to predict or explain. The independent variable is what is used to explain or predict the dependent variable.
 
-Variable dependiente = Constante + Pendiente*Variable independiente + Error:
+Dependent variable = Constant + Slope * Independent variable + Error:
 
-El término constante en la ecuación anterior es el punto de intersección con el eje Y; Por convención, Y se utiliza para representar la variable dependiente y X la variable independiente. La pendiente es el grado de inclinación de una recta, es la cantidad Y que cambia cuando X cambia por una cantidad determinada.
+The constant term in the equation above is the point of intersection with the Y axis; By convention, Y is used to represent the dependent variable and X the independent variable. The slope is the degree of inclination of a line, it is the quantity Y that changes when X changes by a certain amount.
 
-El término Error es muy importante por varias razones, una es que rara vez, si es que alguna vez, podemos predecir Y a partir de X exactamente. Y cuando ocurre, nos sugiere que Y y X pueden ser lo mismo o que tenemos un error en nuestros datos. El patrón de errores también nos da una medida sobre como de confiable es nuestro modelo y como poder  mejorarlo.
+The term Error is very important for several reasons, one is that we can rarely, if ever, predict exactly from X. And when it happens, it happens to us that Y and X may be the same or that we have an error in our data. The error pattern also gives us a measure of how reliable our model is and how we can improve it.
 
-Cuando tenemos más de una variable independiente, el método lo llamaremos regresión múltiple, este método es el más utilizado actualmente ya que con una sola variable sólo veremos una parte reflejada del problema.
+When we have more than one independent variable, we will call the method multiple regression, this method is the most used currently since with a single variable we will only see a reflected part of the problem.
 
-La idea básica es muy simple: trazar una línea a través de un diagrama de dispersión XY de tal manera que nuestros errores se reduzcan al mínimo.
+The basic idea is very simple: draw a line through an XY scatter diagram in such a way that our errors are minimized.
 
-La relación entre la variable de respuesta y las variables predictoras se pueden expresar a través de la siguiente ecuación, con las que ya estamos familiarizados, ya que es la ecuación de una recta:
+The relationship between the response variable and the predictor variables can be identified through the following equation, with which we are already familiar, since it is the equation of a line:
 
 y = β0 + β1 x + ε
 
-donde
+where
 
-    β0 = el coeficiente de intersección, (corte con el eje y)
-    β1 = pendiente, coeficiente de regresión de la variable independiente
-    x = la variable independiente
-    ε = termino de error error
+β0 = the intersection coefficient, (cut with the y-axis)
+β1 = slope, regression coefficient of the independent variable
+x = the independent variable
+ε = error of error term
 
-β0 y β1 son los coeficientes de regresión y denotan la pendiente de la recta y el corte con el eje Y.
+β0 and β1 are the regression coefficients and denote the slope of the line and the cut with the Y axis.
 
