@@ -14,17 +14,17 @@ The basic idea is very simple: draw a line through an XY scatter diagram in such
 
 The relationship between the response variable and the predictor variables can be identified through the following equation, with which we are already familiar, since it is the equation of a line:
 
-y = β0 + β1 x + ε
+                        y = β0 + β1 x + ε
 
 Where:
 
-β0 = the intersection coefficient, (cut with the y-axis)
+    β0 = the intersection coefficient, (cut with the y-axis)
 
-β1 = slope, regression coefficient of the independent variable
+    β1 = slope, regression coefficient of the independent variable
 
-x = the independent variable
+    x = the independent variable
 
-ε = error of error term
+    ε = error of error term
 
 β0 and β1 are the regression coefficients and denote the slope of the line and the cut with the Y axis.
 
