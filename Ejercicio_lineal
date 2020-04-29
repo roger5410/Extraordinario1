@@ -51,7 +51,7 @@
    "outputs": [],
    "source": [
     "#we load the input data\n",
-    "data = pd.read_csv(\"C:/Users/santy/Desktop/articulos_ml.csv\")"
+    "data = pd.read_csv(\"articulos_ml.csv\")"
    ]
   },
   {
