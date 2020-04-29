@@ -1,3 +1,5 @@
+## Logistic regression
+
 Logistic regression is one of the most used statistical-inferential techniques in contemporary scientific production. It arises in the 1960s, its generalization depends on the solution to the problem of the evolution of the coefficients. The Walker - Duncan algorithm for obtaining the maximum likelihood estimators partly solved this problem, but it was of such a nature that the use of computers was essential.
 
 The logistic regression model is used when we are interested in forecasting the probability of a certain success occurring or not.
