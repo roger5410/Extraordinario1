@@ -16,11 +16,14 @@ The relationship between the response variable and the predictor variables can b
 
 y = β0 + β1 x + ε
 
-where
+Where:
 
 β0 = the intersection coefficient, (cut with the y-axis)
+
 β1 = slope, regression coefficient of the independent variable
+
 x = the independent variable
+
 ε = error of error term
 
 β0 and β1 are the regression coefficients and denote the slope of the line and the cut with the Y axis.
