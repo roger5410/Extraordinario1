@@ -24,7 +24,7 @@ Where:
 
     x = the independent variable
 
-    ε = error of error term
+    ε = error term
 
 β0 and β1 are the regression coefficients and denote the slope of the line and the cut with the Y axis.
 
